@@ -1,0 +1,13 @@
+{
+  "StartDate": "2026-08-03",
+  "NumberOfDays": 7,
+  "Data": {
+    "Average": 307.41796875,
+    "DataPoints": [
+      {
+        "Value": 307.41796875,
+        "Date": "2026-07-27T06:22:54.663Z"
+      }
+    ]
+  }
+}
